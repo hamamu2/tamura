@@ -40,7 +40,7 @@ p {
  	visibility: visible;
  	overflow: auto;
  	width: 100%;
- 	height: auto;
+ 	height: 120%;
  	padding-top: 0;
  	text-align: center;
  	opacity: 1;
@@ -59,7 +59,7 @@ p {
  }
  .cp_offcm02 a {
  	display: block;
- 	padding: 12px 45px;
+ 	padding: 25px 60px;
  	-webkit-transition: background-color .3s ease-in;
  					transition: background-color .3s ease-in;
  }
